@@ -18,7 +18,6 @@ https://tsoding.github.io/grecha.js/example.html
     <script>
       const kasha = img("Kasha.png");
       const kashaHard = img("KashaHard.gif");
-
       let count = 0;
       let hard = false;
       const r = router({
